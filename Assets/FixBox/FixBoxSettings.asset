@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c5c1f1da77448fda57ee4c8850b7f4e, type: 3}
+  m_Name: FixBoxSettings
+  m_EditorClassIdentifier: 
+  TimeScale: 2
+  BodyTimeScale: 2
+  IsBulletVsBullet: 0
+  IsPlayerVsPlayer: 0
+  LandCapacity: 64
+  PlayerCapacity: 32
+  BulletCapacity: 64
+  GridSpaceFactor: 5
+  FreezeMargin: 3.85
+  FixFreezeMargin: 3942
